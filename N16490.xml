@@ -115,14 +115,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:021188_0000_0FB29E8B7802BAD8"/>
-            <pb facs="tcp:021188_0001_0FB29E8C40A77330"/>
+            <pb facs="unknown:021188_0000_0FB29E8B7802BAD8"/>
+            <pb facs="unknown:021188_0001_0FB29E8C40A77330"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:021188_0002_0FB29E908F94E440"/>
+            <pb facs="unknown:021188_0002_0FB29E908F94E440"/>
             <p>MEMOIRS OF A PEGTOP.</p>
             <p>BY THE AUTHOR OF ADVENTURES OF A PINCUSHION.</p>
             <q>
@@ -136,23 +136,23 @@
             <p>MDCCLXXXVIII.</p>
          </div>
          <div type="preface">
-            <pb n="7" facs="tcp:021188_0003_0FB29E954A859A80"/>
+            <pb n="7" facs="unknown:021188_0003_0FB29E954A859A80"/>
             <head>PREFACE.</head>
             <p>
                <hi>THE different inclinations, employ<g ref="char:EOLhyphen"/>ments, and amuſements which engage the attention of boys and girls, ſuggeſted to the Author of the following trifling performance, that ſuch a deſign might not be uſeleſs to fill up thoſe intervals of leiſure, which may occur to the former from their more important ſtudies. With this view therefore, it is now ſubmitted to the candour of publick inſpection, truſt<g ref="char:EOLhyphen"/>ing for a favourable reception, more to the utility of the plan than the merit of its execution. The indulgent attention with which the Adventures of a Pincuſh<g ref="char:EOLhyphen"/>ion has been honoured, flattered the writer with an opinion, that a work like the preſent might meet with equal ſucceſs; as the aim in both has been to promote the cauſe of</hi> virtue, <hi>and to blend the hints of inſtruction with incidents of an a<g ref="char:EOLhyphen"/>muſing
-<pb n="8" facs="tcp:021188_0004_0FB29E96D915D830"/>
+<pb n="8" facs="unknown:021188_0004_0FB29E96D915D830"/>
 nature. The former work was deſigned chiefly for the uſe of young La<g ref="char:EOLhyphen"/>dies, this is evidently calculated for young Gentlemen: For although the laws of juſtice, probity and truth, are of</hi> gen<g ref="char:EOLhyphen"/>eral <hi>obligation, yet it was imagined, that by conſulting</hi> different amuſements <hi>and</hi> purſuits, <hi>and recommending the accom<g ref="char:EOLhyphen"/>pliſhments</hi> ſeparately, <hi>in which each ſex were more particularly concerned, the ſubjects would become more intereſting to thoſe readers to whom they were im<g ref="char:EOLhyphen"/>mediately addreſſed, and have, in conſe<g ref="char:EOLhyphen"/>quence, a better chance for approbation.</hi>
             </p>
          </div>
       </front>
       <body>
          <div type="text">
-            <pb n="9" facs="tcp:021188_0005_0FB29E98559EB2D0"/>
+            <pb n="9" facs="unknown:021188_0005_0FB29E98559EB2D0"/>
             <head>MEMOIRS OF A PEGTOP.</head>
             <p>AS I have heard that a <hi>Pincuſhion,</hi> a <hi>Dog,</hi> a <hi>Halfpenny,</hi> and a <hi>Bank Note</hi> have each written a hiſtory of their adventures, I thought to myſelf one morning, when I was left upon a writing deſk, that it would be a convenient opportunity for me to immitate ſuch examples, and that the memoirs of a <hi>Pegtop</hi> might prove equally entertaining with any of the be<g ref="char:EOLhyphen"/>forementioned hiſtories. So reſolving to re<g ref="char:EOLhyphen"/>collect the various ſcenes I had paſſed through, I determined to preſent <hi>my adventures</hi> likewiſe to the world, and ſhare in the fame of thoſe Authors, who had beſtowed their labours to immortalize a particular animal or toy, while the reſt of their ſpecies were conſigned to neg<g ref="char:EOLhyphen"/>lect or oblivion.</p>
             <figure/>
             <p>When we reached the houſe he was going to which was a handſome building in <hi>Summer
-<pb n="13" facs="tcp:021188_0009_0FB29E9F8C52E458"/>
+<pb n="13" facs="unknown:021188_0009_0FB29E9F8C52E458"/>
 Street,</hi> he took me out to ſhew to another child in petticoats, who cried ſadly to poſſeſs me; but was told by his mamma, that I was his brother's property, and that <hi>Henry</hi> muſt keep me, becauſe, on <hi>Monday</hi> he was going to a <hi>boarding ſchool.</hi> Some company ſoon af<g ref="char:EOLhyphen"/>ter coming into the apartment, the lady de<g ref="char:EOLhyphen"/>ſired her ſon to take care of me until a more convenient opportunity.</p>
             <p>I ſoon found by their converſation, my new maſter had been brought up with great tender<g ref="char:EOLhyphen"/>neſs by his mother, who was a widow; and was to go to ſchool on the day abovementioned for the firſt time. That a great number of toys had been purchaſed to allure him into this meaſure, and to ſooth his ſorrows at the thoughts of a ſeparation.</p>
             <p>As he had no opportunity to play with me the remainder of the evening. I lay ſnug in his pocket until he went to bed: when he took me out, and expatiated to a footman, who <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -162,13 +162,13 @@ Street,</hi> he took me out to ſhew to another child in petticoats, who cried �
                </gap> himſelf <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> wiſhed
-<pb n="14" facs="tcp:021188_0010_0FB29EA199CF6048"/>
+<pb n="14" facs="unknown:021188_0010_0FB29EA199CF6048"/>
 the next day had not been <hi>Sunday,</hi> as it would prevent his enjoyment. This was certainly a fault, but he was very young and inconſiderate; and it is to be hoped, that when he grew older he acquired more wiſdom. The next day he did not <hi>play</hi> with me indeed; but he took me out of his pocket a great number of times to look at; and even while he was at church (which was highly blameable) felt, to know if I was ſecure: A proof he was but too inatten<g ref="char:EOLhyphen"/>tive to his employment. But greatly as I had been favoured by his notice, the time was now come when I was to experience his entire neglect.</p>
             <figure/>
             <figure/>
             <figure/>
             <p>The quick manner in which he diſpatched, and the facility with which he comprehended his learning, gained him the favour of his maſ<g ref="char:EOLhyphen"/>ter, and excited the envy of his ſchool fellows. But the conſtant good nature with which he behaved to them, inclined them at the ſame time to love and reſpect him. His invariable honour, and uncorrupted honeſtly had been ſo often diſ<g ref="char:EOLhyphen"/>tinguiſhed,
-<pb n="24" facs="tcp:021188_0020_0FB29EBC4E18F2A0"/>
+<pb n="24" facs="unknown:021188_0020_0FB29EBC4E18F2A0"/>
 that Mr. <hi>Verber</hi> deputed to his charge, the payment of their weekly allowance to about twenty boys. His commiſſions he had executed with univerſal credit and ſatisfaction; until one day, when <hi>Jack Growler,</hi> who was of a moſt wicked and malignant diſpoſition, declar<g ref="char:EOLhyphen"/>ed that he had been cheated, of ſixpence, and that he would appeal to his maſter for redreſs.</p>
             <p>
                <hi>Powel.</hi> whoſe only fault was in general to be too paſſionate in the vindication of his conduct, diſdained on the preſent occaſion to anſwer the charge, and treated <hi>
@@ -183,67 +183,67 @@ that Mr. <hi>Verber</hi> deputed to his charge, the payment of their weekly allo
                </gap> cared for his accuſation.</p>
             <figure/>
             <p>Mr. <hi>Verber</hi> immediately ſummoned the ac<g ref="char:EOLhyphen"/>cuſed party to defend himſelf, who very warmly retorted upon <hi>Growler</hi> the charge of meanneſs, malice, and detraction, and declared that he had delivered him the whole; proteſting in the moſt ſolemn manner, that he had never touch<g ref="char:EOLhyphen"/>ed
-<pb n="26" facs="tcp:021188_0022_0FB29EC215A9CE90"/>
+<pb n="26" facs="unknown:021188_0022_0FB29EC215A9CE90"/>
 or ſeen it ſince. His companions joined in this account, and confirmed it by ſaying, the money was as remarkable as I deſcribed. Upon which their maſter ordered them both to be ſearched, which afforded no ſmall degree of pleaſure to <hi>Growler,</hi> who firſt ſubmitted to the command, and eſcaped with greater honour than fell to the ſhare of the innocent <hi>Powel,</hi> in whoſe poſſeſſion the ſixpence was found. A<g ref="char:EOLhyphen"/>mazed, confounded, and provoked to the high<g ref="char:EOLhyphen"/>eſt degree at this unexpected accident, my poor maſter could not contain his indignation. He loudly repeated his proteſtations of innocence, and laid the blame of treachery and deceit with great juſtice on his accuſer. But ſtill appear<g ref="char:EOLhyphen"/>ances were ſo much in his disfavour, that Mr. <hi>Verber</hi> ſternly told him, his paſſions riſing to ſuch exceſs, was a confirmation of his guilt; <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>, that unleſs he could clear himſelf from the imputation, he muſt expect the ſevereſt pun<g ref="char:EOLhyphen"/>iſhment, as his crime appeared of the moſt com<g ref="char:EOLhyphen"/>plicated nature; comprehending a charge of deceit, lying, and fraud; crimes of ſuch mag<g ref="char:EOLhyphen"/>nitude,
-<pb n="27" facs="tcp:021188_0023_0FB29EC303143540"/>
+<pb n="27" facs="unknown:021188_0023_0FB29EC303143540"/>
 as he never <hi>did,</hi> nor ever <hi>would</hi> pardon. He then ordered him to deliver up the money with which he had been intruſted, as he was not worthy the office of his ſecretary, until his character was cleared, and his innocence made manifeſt. He was likewiſe ordered to confine<g ref="char:EOLhyphen"/>ment in a ſmall room, which was called the Baſ<g ref="char:EOLhyphen"/>tile, becauſe it had but one window, which was a ſky light; and whoever was thought deſerving this puniſhment, was baniſhed from all the reſt of his companions, and ſecluded from every amuſement. All the toys which were found in his pocket were confiſcated to Mr. <hi>Verber,</hi> who took me as part of that number, and depoſited me in a drawer in his own ſtudy; where I remained in a ſtate of quietneſs and in<g ref="char:EOLhyphen"/>action for ſome time. The companions of my ſecluded ſtate were a <hi>teatotum,</hi> which had been ſeized from a boy who ſpun it in ſchool time when he ought to have been writing; a bag of <hi>marbles</hi> that had forfeited their liberty from their maſter's having rolled them on the ſeat of the pew at church; together with an
-<pb n="28" facs="tcp:021188_0024_0FB29EC482B21FE0"/>
+<pb n="28" facs="unknown:021188_0024_0FB29EC482B21FE0"/>
 exceeding good <hi>ball,</hi> which had been thrown up againſt the houſe, and made its way through the parlour window; and a <hi>drum battledore,</hi> and curious <hi>ſhuttlecock,</hi> which the owner had uſed in ſchool time, when he was diſpatched on another errand; and which had prolonged his ſtay until Mr. <hi>Verber</hi> had diſcovered his em<g ref="char:EOLhyphen"/>ployment. After ſome time this gentleman took me out, and preſented me once more to his favourite <hi>Powel,</hi> whoſe character had been fully vindicated, as I ſoon learned; and who was now reinſtated in his maſter's favour, and reſtored to his former diſtinction. With a ſmile of complacence, Mr. <hi>Verber</hi> gave me back to my maſter, and aſſured him, it was with the greateſt pleaſure he congratulated him on the complete manifeſtation of his innocence: at the ſame time, ſaid he, I muſt blame you for that indiſcreet warmth, with which on all oc<g ref="char:EOLhyphen"/>caſions, you are apt to defend yourſelf; and which will ever be an injury to the beſt cauſe; and, I aſſure you, more inclined me to ima<g ref="char:EOLhyphen"/>gine you to be guilty, than any other argu<g ref="char:EOLhyphen"/>ment
-<pb n="29" facs="tcp:021188_0025_0FB29EC8C659D2F0"/>
+<pb n="29" facs="unknown:021188_0025_0FB29EC8C659D2F0"/>
 could have done. Be convinced, <hi>Powel,</hi> that virtue can never be <hi>aſſiſted,</hi> but may be often <hi>hurt</hi> by the indulgence of paſſion. How<g ref="char:EOLhyphen"/>ever, I truſt that you will have ſo much good ſenſe as to improve from the conſciouſneſs of paſt failings; and I do inſiſt upon your giving up all thoughts of perſonal revenge againſt your accuſer, whoſe puniſhment I ſhall take into my own hands; and I hope that you are too gene<g ref="char:EOLhyphen"/>rous to think of bearing future ill will and enmity againſt him, ſince the beſt way to prove your own ſuperiority and merit, will be by a generous forgiveneſs; and I ſhould be extreme<g ref="char:EOLhyphen"/>ly ſorry to be obliged, through your violence to him, to involve you in a ſimilar condemna<g ref="char:EOLhyphen"/>tion. <hi>Powel</hi> expreſſed his ſatisfaction at his maſter's approbation, and thanking him for the continuance of his confidence, with a low bow left the room.</p>
             <p>
                <hi>Jack Growler,</hi> as I afterwards found, had diſcovered his treachery, by boaſting of <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> to one of his friends; and rejoicing in that plan of revenge, which had involved the
-<pb n="30" facs="tcp:021188_0026_0FB29EC9CCF70FB0"/>
+<pb n="30" facs="unknown:021188_0026_0FB29EC9CCF70FB0"/>
 innocent <hi>Powel</hi> in diſgrace. But being over<g ref="char:EOLhyphen"/>heard by his maſter, he had puniſhed his wick<g ref="char:EOLhyphen"/>edneſs by a ſevere flogging, and obliged him publickly to aſk pardon, and likewiſe for ſome weeks deprived him of his allowance, as that had been the inſtrument of malevolence. And indeed I have often had occaſion to remark in the ſcenes in which I have been engaged, that however vice may triumph for a time, it is generally diſcovered in the end, and meets with its deſerved retribution.</p>
             <figure/>
             <p>This, however, did not ſatisfy the diſpleaſed <hi>Swallowell,</hi> who ſtill retained the taſte of the cow dung ſtrongly in his mouth. He, therefore gave <hi>Powel</hi> a blow on his head as he was ſtoop<g ref="char:EOLhyphen"/>ing to buckle his ſhoe. This daſtardly trick was ſoon returned by <hi>Frank</hi> with ſome violence, who declared himſelf unwilling to fight; but that he would not tamely ſtand ſtill to be thraſhed in ſuch a cowardly manner, by a boy to whom he was ſuperiour. After drubbing him ſome time he walked on with his compan<g ref="char:EOLhyphen"/>ions, and left battered <hi>Tom</hi> rolling in the mid<g ref="char:EOLhyphen"/>dle of the road, to taſte a ſecond time, the cow dung which had occaſioned the quarrel, and into the midſt of which his antagoniſt had thrown him.</p>
             <p>Juſt as he was riſing, and trying to wipe off the dirt and duſt which his clothes were cov<g ref="char:EOLhyphen"/>ered with, he was overtaken by Mr. <hi>Verber;</hi> who was taking a walk with <hi>Powel's</hi> father,
-<pb n="35" facs="tcp:021188_0031_0FB29ED6907FB970"/>
+<pb n="35" facs="unknown:021188_0031_0FB29ED6907FB970"/>
 that gentleman having arrived a ſhort time before on a viſit to his ſon.</p>
             <p>The maſter enquired of <hi>Swallowell</hi> the cauſe of his being in that dirty and wounded condi<g ref="char:EOLhyphen"/>tion; of which being informed, he ſent him home, and purſued his walk in queſt of his ad<g ref="char:EOLhyphen"/>verſary. Theſe particulars I learned from a friend of my maſter's to whom <hi>Tom</hi> commu<g ref="char:EOLhyphen"/>nicated them on his return.</p>
             <figure/>
             <figure/>
             <figure/>
             <p>
-               <pb n="43" facs="tcp:021188_0039_0FB29EE58A8BA178"/>
+               <pb n="43" facs="unknown:021188_0039_0FB29EE58A8BA178"/>
 In the morning he was continually in ſuch a hurry, that he ſcarce knew which of his leſſons to attend; and it was no uſual thing, to ſee him employ the little time he had in ſearching for his books, which were generally thrown by with careleſs indifference the moment ſchool hours were over. It may be eaſily imagined, that in this ſituation he made greater proficien<g ref="char:EOLhyphen"/>cy in his play than his learning; and indeed he was ſurpaſſed in the one by many boys of ten, though he was himſelf thirteen years old: While in every amuſement he was conſidered as the firſt leader, and the moſt expert of the whole ſociety. I had ſoon reaſon to repent the diſpoſition of my new maſter, for although he commended me extremely, yet he complain<g ref="char:EOLhyphen"/>ed that I was too heavy, and propoſed a plan for my improvement, which I ſhudder to relate.</p>
             <figure/>
             <figure/>
             <figure/>
             <p>From this inſtance a moral reflection or two is ſo obvious, that I cannot perſuade myſelf to omit them. As I was ſtrongly impreſſed at
-<pb n="51" facs="tcp:021188_0047_0FB29EFC04F23858"/>
+<pb n="51" facs="unknown:021188_0047_0FB29EFC04F23858"/>
 the time with the conſideration, that however innocence may be expoſed through the folly of others to misfortune and danger, yet ſome method will be ever found for its reſcue and protection. And this ſhould incline thoſe who are in an uneaſy ſituation, to bear with pa<g ref="char:EOLhyphen"/>tience the vexations which may occur; as they may be well aſſured, if they act with propriety themſelves, they will in the end be enabled to ſurmount every difficulty, and re<g ref="char:EOLhyphen"/>joice in the comforts of a more agreeable ſtate. While thoſe who neglect a proper attention to their neceſſary buſineſs, from an inclination to preſent pleaſure, will frequently meet with ſome accident to obſtruct their wiſhes, and puniſh them effectually for their diſobedience.</p>
             <p>
                <hi>Ben Playful</hi> had at this time reaſon to be ſenſible of the truth of what is here advanced, as his maſter declared, that after paying for the glaſs, which he thought in <hi>juſtice</hi> he was o<g ref="char:EOLhyphen"/>bliged to do, he ſhould have been no ways diſpleaſed, had not his fondneſs for play con<g ref="char:EOLhyphen"/>ſtantly been the occaſion of neglecting his ſtud<g ref="char:EOLhyphen"/>ies;
-<pb n="52" facs="tcp:021188_0048_0FB29EFEF3726900"/>
+<pb n="52" facs="unknown:021188_0048_0FB29EFEF3726900"/>
 he therefore kept him confined the reſt of the evening, until he had, in ſome degree, made amends for his former omiſſion. When it was bed time, and he had repeated the leſ<g ref="char:EOLhyphen"/>ſon which he had ſince been very diligent to learn, he begged that I might be reſtored, promiſing to behave with more caution for the future. I am ſorry, <hi>Playful,</hi> replied Mr. <hi>Verber,</hi> that your idleneſs does ſo frequently oblige me both to blame and to puniſh you. For my own credit I ſhould certainly be deſi<g ref="char:EOLhyphen"/>rous to have you improve; but it is not of equal conſequence to any perſon, as it will in future be to yourſelf. To acquire a com<g ref="char:EOLhyphen"/>petent knowledge of different languages, but eſpecially of your own and the latin tongue, is ſo eſſential to the character of a <hi>gentleman,</hi> that without it, you will certainly (be your fortune ever ſo large) meet with deriſion and contempt. A man who has the advantage of <hi>good ſenſe,</hi> improved by a <hi>liberal education,</hi> may with aſſiduity and diligence, raiſe himſelf in the world, and be univerſally reſpected al<g ref="char:EOLhyphen"/>though
-<pb n="53" facs="tcp:021188_0049_0FB29F028B38D168"/>
+<pb n="53" facs="unknown:021188_0049_0FB29F028B38D168"/>
 deſtitute of <hi>riches;</hi> but the greateſt <hi>affluence</hi> cannot purchaſe eſteem, when the poſſeſſor is <hi>illiterate</hi> or <hi>ill bred.</hi> Bad ſpelling, or bad Engliſh are certain indications of meanneſs, and will be always conſidered as ſuch; and if you are not attentive to acquire a thorough knowledge of your grammar, you will never at any age be able to ſpeak with propriety, or write with elegance. The far<g ref="char:EOLhyphen"/>ther you advance in learning, the more agree<g ref="char:EOLhyphen"/>able you will find it; but by deferring your buſineſs for the ſake of playing a little longer, you multiply your troubles, and introduce ſuch confuſion into the diſpoſition of your time, as involves you in perpetual difficulty. Young people are ſeldom to be perſuaded, that the firſt part of their days is the only ſea<g ref="char:EOLhyphen"/>ſon for the attainment of knowledge; but believe me, <hi>Playful,</hi> if you neglect the preſent opportunity of improvement, you will have reaſon to repent your folly to the lateſt hour of your life.</p>
             <p>My maſter very ſeriouſly attended to the
-<pb n="54" facs="tcp:021188_0050_0FB29F0449472EE0"/>
+<pb n="54" facs="unknown:021188_0050_0FB29F0449472EE0"/>
 concluſion of this good advice; but before he retired, again entreated to have me re<g ref="char:EOLhyphen"/>ſtored. I was accordingly delivered to him with repeated charges to behave better, which be promiſed faithfully to comply with.</p>
             <figure/>
             <p>With a heavy heart he put me into his pock<g ref="char:EOLhyphen"/>et, and going to a bench in the yard where he had left it, took up his book, reading his leſſon over as he ſlowly crept along, until ſtop<g ref="char:EOLhyphen"/>ping a conſiderable time at a window in a paſ<g ref="char:EOLhyphen"/>ſage which led to the ſchool, one of the uſhers came ſoftly behind, and giving him a hearty ſtroke with a cane upon his ſhoulders, told him to quicken his pace, for he was always <hi>lag laſt.</hi> The diſtreſs which he afterwards experienc<g ref="char:EOLhyphen"/>ed on account of his neglect, was a deſerved puniſhment, for his diſobedience to his father's advice, after a given promiſe to the contrary. But ſo it will ever happen, where a fondneſs for amuſement is ſuffered to prevail to ſuch exceſs, as to engroſs that portion of time, which ought to be more uſefully employed.</p>
             <p>Children are apt to think, that a few <hi>min<g ref="char:EOLhyphen"/>utes</hi> added to their diverſions can make no
-<pb n="57" facs="tcp:021188_0053_0FB29F0BC684BF38"/>
+<pb n="57" facs="unknown:021188_0053_0FB29F0BC684BF38"/>
 difference; and <hi>minutes</hi> ſlip away inſenſibly into a quater of an hour; their play becomes more intereſting, the game is nearly conclud<g ref="char:EOLhyphen"/>ed, or the kite will ſoon be down, it is a pity to ſtop its flight! a race will ſhortly be deter<g ref="char:EOLhyphen"/>mined, or ſome ſuch reaſon prevails, until the time is elapſed in which their buſineſs ſhould have been attended; and they are left to be<g ref="char:EOLhyphen"/>wail in ſorrow, and regret the folly of their negligence. It would be more prudent, therefore, at firſt to ſecure the eſſentials, and do what is neceſſary before they begin to en<g ref="char:EOLhyphen"/>gage in thoſe diverſions, which, however lau<g ref="char:EOLhyphen"/>dable in their proper ſeaſon, may frequently enſnare them into errour, and ſubject them to future puniſhment.</p>
             <p>Poor <hi>Playful!</hi> who would have had time ſufficient to have finiſhed his job, and might have quietly enjoyed me when ſchool time was over, by an indiſcreet uſe of his morn<g ref="char:EOLhyphen"/>ing hours, was confined all the reſt of the day, and had an additional taſk given him to learn, upon pain of a ſevere flogging if it was
-<pb n="58" facs="tcp:021188_0054_0FB29F0D75E6A520"/>
+<pb n="58" facs="unknown:021188_0054_0FB29F0D75E6A520"/>
 neglected. Whether he underwent any pun<g ref="char:EOLhyphen"/>iſhment, or what afterwards became of him, I cannot tell, as I ſlipped through a hole in his pocket as he was ſtanding at the yard gate after breakfaſt, whither he had been ſent by the latin uſher to fetch one of his companions who was at play in the road. I did not however remain long in a ſtate of freedom, but was picked up by a baker's boy, who brought bread to Mr. <hi>Verber's.</hi> He ſurveyed me with great joy, and we ſoon mounted together into his cart, and jolted on to ſeveral other houſes in the neighbourhood; at one of which my new maſter met with a companion, who beg<g ref="char:EOLhyphen"/>ged to ride to the next village, which was a<g ref="char:EOLhyphen"/>bout half a mile diſtance. This boy, who was near twelve years old, had been to carry a letter from a charity ſchool, to which he belonged, to one of the gentleman who was a benefactor to it.</p>
             <figure/>
             <figure/>
             <figure/>
             <p>As ſoon as he reached Mr. <hi>Bakeall's,</hi> he went into the kitchen, where the whole fami<g ref="char:EOLhyphen"/>ly were ſitting down to dinner on a ſhoulder of mutton and potatoes, which came ſmoak<g ref="char:EOLhyphen"/>ing from the oven as he entered. <hi>George</hi> told a pitiful, but falſe tale of the accident which had hurt his eye, and the ſituation in which he had left the cart, declaring he could not ſee to find old <hi>Trot;</hi> but imagined he was at no great diſtance from the cart. His maſter, miſ<g ref="char:EOLhyphen"/>treſs, their daughter, and the man who aſſiſted in the baking, all by turns endeavoured to extract the thorn: But he kept his eye cloſe
-<pb n="70" facs="tcp:021188_0066_0FB29F32F82BAB50"/>
+<pb n="70" facs="unknown:021188_0066_0FB29F32F82BAB50"/>
 ſhut, by which mean it worked its way ſtill farther, and made the misfortune more danger<g ref="char:EOLhyphen"/>ous. The anguiſh growing almoſt inſupporta<g ref="char:EOLhyphen"/>ble, his maſter took him to a Mr. <hi>Keen,</hi> a ſurgeon in the village, who declared the caſe to be a very bad one, and though he got it out at laſt, it was with the greateſt degree of dif<g ref="char:EOLhyphen"/>ficulty.</p>
             <p>He then enquired by what means it had happened, and Mr. <hi>Bakeall</hi> gave the account which he had received from <hi>George,</hi> adding, that his man was gone to ſee what was become of the horſe and cart. At the concluſion of the hiſtory, Mr. <hi>Keen</hi> hoped there was no <hi>lye</hi> in the caſe, as he ſaw <hi>Mealwell</hi> at play with another boy at pegtop; and the horſe and cart ſtand<g ref="char:EOLhyphen"/>ing without a driver in the road, as he came from viſiting a patient. He ſaid likewiſe, that he knew the other boy by ſight, and believed it to be <hi>Charles Heedmore,</hi> the ſhoemaker's ſon.</p>
             <p>
                <hi>George,</hi> who was now in a terrible fright, yet was unwilling to confeſs that he had told an untruth; ſo to prove the veracity of his former
-<pb n="71" facs="tcp:021188_0067_0FB29F370E4D7BD8"/>
+<pb n="71" facs="unknown:021188_0067_0FB29F370E4D7BD8"/>
 aſſertion, was obliged to ſupport it by repeated lies. Thus does the commiſſion of one errour lead to numberleſs crimes; and his firſt fault in leaving his buſineſs to attend unſeaſonably to his play, was the occaſion of ſuch a train of wickedneſs and guilt.</p>
             <figure/>
             <figure/>
@@ -251,7 +251,7 @@ aſſertion, was obliged to ſupport it by repeated lies. Thus does the commiſ�
             <figure/>
             <figure/>
             <p>Her brothers, who were not long before they paid her a viſit were much diverted at her un<g ref="char:EOLhyphen"/>ſucceſsful attempt, and begged they might be permitted to try whether the fault was in me or their ſiſter; to which ſhe conſented, upon their promiſe of returning me immediately. <hi>Edward,</hi> who was the eldeſt, kept me up for near a min<g ref="char:EOLhyphen"/>ute; and I ſpun ſo well, as to ſleep more ſoundly than I had ever done before. In ſhort, he declared he would give her any thing to
-<pb n="87" facs="tcp:021188_0083_0FB29F5489055B50"/>
+<pb n="87" facs="unknown:021188_0083_0FB29F5489055B50"/>
 poſſeſs me, and delivered me to <hi>Frederick</hi> with the higheſt commendations; adding, it was a ſhame that any <hi>girl</hi> in the world ſhould be ſuf<g ref="char:EOLhyphen"/>fered to keep ſuch a top. His brother afford<g ref="char:EOLhyphen"/>ed me as much ſatisfaction; for a <hi>Pegtop</hi> of any emulation is as happy as its owner, when it is ſpun by a ſkilful hand, and when it is ſo fortunate as to excel, <hi>"will ſhare with its Lord the pleaſure and the pride"</hi> of thoſe praiſes which are beſtowed on its merit. I was ſoon returned to <hi>Sophia,</hi> who ſeemed to be much mortified that ſhe could not make me ſpin; and rejoiced exceedingly, when I once ſtaggered round for two or three times, though I immediately after fell down, to the enter<g ref="char:EOLhyphen"/>tainment of her brothers, who offered her any thing in their poſſeſſion in exchange for me. The following verſes however, at laſt effected, what no other arguments had the power to accompliſh, and ſhe gave me to maſ<g ref="char:EOLhyphen"/>ter <hi>Edward</hi> for a landſcape, which his father had the ſa<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>e morning preſented him with.</p>
@@ -297,7 +297,7 @@ poſſeſs me, and delivered me to <hi>Frederick</hi> with the higheſt commenda
                               <hi>Nor receive for yourſelf either pleaſure or joy;</hi>
                            </l>
                            <l>
-                              <pb n="89" facs="tcp:021188_0085_0FB29F57E885FA48"/>
+                              <pb n="89" facs="unknown:021188_0085_0FB29F57E885FA48"/>
                               <hi>From a motive ſo croſs, if you offer to ſtay,</hi>
                            </l>
                            <l>
@@ -348,17 +348,17 @@ poſſeſs me, and delivered me to <hi>Frederick</hi> with the higheſt commenda
                </floatingText>
             </q>
             <p>Juſt as the exchange was agreed upon, Mr. <hi>Jackſon</hi> entered; the above verſes laying upon the table, he took them up and read them; after which, addreſſing himſelf to his eldeſt ſon, I ſee, <hi>Edward,</hi> ſaid he, by the hand writ<g ref="char:EOLhyphen"/>ing, that this is your compoſition, and perhaps the <hi>poetry,</hi> when your age is conſidered, may not be thought much amiſs. But I am very
-<pb n="90" facs="tcp:021188_0086_0FB29F5921090800"/>
+<pb n="90" facs="unknown:021188_0086_0FB29F5921090800"/>
 ſorry to ſay, the ſentiments which they con<g ref="char:EOLhyphen"/>tain are deficient in a very eſſential point, and are ſo much wanting in good nature, that whatever credit may be derided to your <hi>head,</hi> they will certainly do no honour to your <hi>heart.</hi>
             </p>
             <p>A talent for ridicule is a very dangerous ac<g ref="char:EOLhyphen"/>compliſhment, as it is ſeldom exerted under the influence of good humour; at leaſt the feel<g ref="char:EOLhyphen"/>ings of thoſe againſt whom it is levelled are ſeldom conſidered; and he deſerves but little of our eſteem, who, to prove his wit, would ſay, or write any thing, which might give un<g ref="char:EOLhyphen"/>eaſineſs to a friend. In the preſent inſtance, though your ſatire may be juſtly pointed againſt ſuch girls as forget the delicacy of their ſex, and behave improperly; yet, to addreſs them to a ſiſter, who is not guilty of this fault, and who was by no means to blame in keeping what was her own property, is, as I before ſaid, no proof of your affection or kindneſs. To exult with a pretended ſuperiority over <hi>the girls,</hi> as you are apt with an air of inſult to expreſs yourſelf, and to ſneer at their amuſe<g ref="char:EOLhyphen"/>ments,
-<pb n="91" facs="tcp:021188_0087_0FB29F5B3AFB0790"/>
+<pb n="91" facs="unknown:021188_0087_0FB29F5B3AFB0790"/>
 while you deny them to ſhare in your's is a proof of the weakneſs of your underſtand<g ref="char:EOLhyphen"/>ing; but will never exalt you in the opinion of men of ſenſe.</p>
             <figure/>
             <p>To diſregard the learned languages is a proof of an illiterate and uninformed mind, which from not knowing, is unacquainted with their neceſſity and uſe; but to imagine, that wiſ<g ref="char:EOLhyphen"/>dom is centered in the ancients, and that a knowledge of <hi>Homer, Virgil, Terence,</hi> or any other author you may read, will conſtitute you a reſpectable character, is a miſtake which can only ariſe from ignorance.</p>
             <figure/>
             <q>
-               <pb n="95" facs="tcp:021188_0091_0FB29F60ADD6C590"/>
+               <pb n="95" facs="unknown:021188_0091_0FB29F60ADD6C590"/>
                <floatingText xml:lang="unk">
                   <body>
                      <div type="poem">
@@ -433,7 +433,7 @@ while you deny them to ſhare in your's is a proof of the weakneſs of your unde
                                  </gap> deſire,</hi>
                            </l>
                            <l>
-                              <pb n="96" facs="tcp:021188_0092_0FB29F621596F270"/>
+                              <pb n="96" facs="unknown:021188_0092_0FB29F621596F270"/>
                               <hi>To reach that perfection, that recompence find,</hi>
                            </l>
                            <l>
@@ -501,7 +501,7 @@ while you deny them to ſhare in your's is a proof of the weakneſs of your unde
                               <hi>Which prove to thy</hi> Charles <hi>thou haſt ever been kind:</hi>
                            </l>
                            <l>
-                              <pb n="97" facs="tcp:021188_0093_0FB29F638384AA50"/>
+                              <pb n="97" facs="unknown:021188_0093_0FB29F638384AA50"/>
                               <hi>Then think not he ceaſes thy love to reſpect,</hi>
                            </l>
                            <l>
@@ -536,7 +536,7 @@ while you deny them to ſhare in your's is a proof of the weakneſs of your unde
             <p>I am ſorry, replied his father with a <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> air, that the pleaſure with which you ſurveyed that confuſion, has made you forget the ſuffer<g ref="char:EOLhyphen"/>ings
-<pb n="103" facs="tcp:021188_0099_0FB29F742AA7B550"/>
+<pb n="103" facs="unknown:021188_0099_0FB29F742AA7B550"/>
 which it <hi>might</hi> have cauſed to the perſon, whoſe living depends upon the ſucceſs of her little trade. Every one has a right to <hi>juſtice,</hi> be their ſituation in life ever ſo low; and it is an additional degree of guilt to injure thoſe, who ſtand moſt in need of protection. It can<g ref="char:EOLhyphen"/>not therefore, in my mind, be conſidered as any proof of <hi>cleverneſs</hi> or <hi>wit,</hi> to ſee a boy throw down a barrow of fruit, overſet a ſtall of gin<g ref="char:EOLhyphen"/>gerbread, trip up an old woman's heels, or perform any of thoſe feats of dexterity, which are apt to afford mirth to the giddy and incon<g ref="char:EOLhyphen"/>ſiderate; ſince to do a fellow creature a mate<g ref="char:EOLhyphen"/>rial injury, for the ſake of ſporting with their misfortunes, is to be wicked and inhuman; but is by no means entitled to commendation and applauſe. If you had been one of the children who was to be turned out of doors, or to loo<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap> your day's victuals in conſequence of this <hi>
@@ -544,16 +544,16 @@ which it <hi>might</hi> have cauſed to the perſon, whoſe living depends upon 
                      <desc>〈◊〉</desc>
                   </gap>
                </hi> exploit, I am apt to think you would form a different judgment of its merit, and be ready to execrate that wantonneſs of invention, which can ſo unthinkingly ſport with the uneaſineſs
-<pb n="104" facs="tcp:021188_0100_0FB29E1ED428D3E0"/>
+<pb n="104" facs="unknown:021188_0100_0FB29E1ED428D3E0"/>
 of others. Never, therefore, let the <hi>fun,</hi> or entertainment of ſuch jokes make you inſen<g ref="char:EOLhyphen"/>ſible to the ſerious miſchiefs they may produce; and remember, that what, like the fable of the <hi>boys</hi> and <hi>frogs,</hi> may be <hi>play</hi> to you, is miſery perhaps to thoſe whoſe property you ſo abuſe. I recollect, added he, an inſtance of this kind, when I was at ſchool, which produced ſuch a diſmal event as I ſhall never forget.</p>
             <p>An old woman who lived in a cottage in the neighbourhood, and whoſe character was as qui<g ref="char:EOLhyphen"/>et, good, and inoffenſive as you can imagine; was nevertheleſs, ſingled out by the boys, as a proper ſubject for their <hi>fun.</hi> She was very ſhort and a little crooked, bent down with age and infirmities, and was guilty of the ſhocking crime of <hi>wearing a high crowned hat:</hi> which had perhaps been in vogue in the days of her youth. This was ſo high an offence, that they gave her the appellation of the <hi>Old Witch,</hi> and by this name ſhe was univerſally known. Stigmatized with ſuch an epithet of deriſion, they thought there was no harm in making
-<pb n="105" facs="tcp:021188_0101_0FB29E20C7269100"/>
+<pb n="105" facs="unknown:021188_0101_0FB29E20C7269100"/>
 her life unhappy, by every art which their in<g ref="char:EOLhyphen"/>vention could deviſe. They broke the only window of her cot, and as ſoon as it was repair<g ref="char:EOLhyphen"/>ed, repeated the offence. A couple of ſhe aſſes which ſhe kept to ſupply the neighbours with milk, and which were her chief ſupport, they drove every day to a diſtance, into ſuch places as they thought ſhe would leaſt think of ſearch<g ref="char:EOLhyphen"/>ing for them; and this, as ſhe was <hi>lame,</hi> was a conſtant uneaſineſs to her. Several times they nailed up the door of her hut, and when ſhe was abſent, would pile up all the rubbiſh they could procure, to obſtruct her entrance; and when ſhe made any complaints of theſe in<g ref="char:EOLhyphen"/>ſults to their maſters, they conſidered it as an unpardonable provocation, and vowed their vengeance for her ill nature. At length they determined on a ſcheme, which they thought would effectually frighten the <hi>Old Witch,</hi> and make her fears afford them a ſubject of mirth.</p>
             <figure/>
             <p>As Mr. <hi>Jackſon</hi> concluded this ſentence, they arrived at the end of their journey. They were immediately introduced into a handſome draw<g ref="char:EOLhyphen"/>ing room, where a large party was aſſembled; among which was a boy about the age of maſter <hi>Edward,</hi> with whom he and his brother ſoon quitted the apartmant, and retired to the dining parlour, where I was produced, with great praiſes of my merit. But a difficulty now <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>, as I could not ſpin upon the carpet. This therefore, they agreed to turn back and without
-<pb n="108" facs="tcp:021188_0104_0FB29E2656681580"/>
+<pb n="108" facs="unknown:021188_0104_0FB29E2656681580"/>
 conſidering the holes my peg would make in the floor, they began to ſpin me by turns, and con<g ref="char:EOLhyphen"/>tinued to entertain themſelves, until a footman came to lay the cloth for dinner. He blamed the young gentlemen for the liberty they had taken, and ſaid, his miſtreſs would be much diſ<g ref="char:EOLhyphen"/>pleaſed, and inſiſted upon their finding a more proper place for their amuſement. After de<g ref="char:EOLhyphen"/>bating the matter ſome time, they agreed to ad<g ref="char:EOLhyphen"/>journ to the library; where, as ſoon as they ar<g ref="char:EOLhyphen"/>rived, I was laid on a writing deſk, as their at<g ref="char:EOLhyphen"/>tention was engaged by the pictures of a folio, which was open on a table. The pleaſure they found in this examination made them forget me; and when they were ſummoned to attend the company, they, in their haſte, left me behind; and the leiſure I there enjoyed, ſuggeſted the idea of communicating an account of myſelf to the world. Whether the recital will afford any ſatisfaction to the youthful readers, I muſt leave with them to determine.</p>
             <trailer>THE END.</trailer>
          </div>
